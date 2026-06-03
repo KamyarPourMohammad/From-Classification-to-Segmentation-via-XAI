@@ -3,9 +3,13 @@
 
 ---
 
-## 1 Introduction
+## 1 Abstract
 
 I began my research by searching for top papers on Google Scholar and reading them to build my foundational knowledge. After familiarizing myself with the field, I attempted to rewrite one of the papers to enhance my understanding and become more comfortable with the subject matter.
+
+---
+
+## 2 Introduction
 
 In this report, I have documented my research activities in the area of object segmentation in medical images, with a particular focus on chest radiography. My work explores modern segmentation approaches, explainable AI techniques, and large-scale medical datasets.
 
@@ -13,7 +17,7 @@ The ultimate goal of my project was to develop an effective segmentation model f
 
 ---
 
-## 2 Background Study For Getting Started
+## 3 Background Study For Getting Started
 
 First, I tried to gain a foundational overview of the key elements required for conducting academic research in a structured format. My focus was on understanding the academic landscape, which includes:
 
@@ -23,7 +27,7 @@ First, I tried to gain a foundational overview of the key elements required for 
 
 ---
 
-## 3 Selecting the Main Paper
+## 4 Selecting the Main Paper
 
 In the second phase, after reviewing the academic landscape, I selected my main paper. The title of my chosen paper is:
 
@@ -40,7 +44,7 @@ This paper proposes a novel method for *generating pseudo-segmentation labels fr
 
 ---
 
-## 4 Project Goal, Challenges and Proposed Approach
+## 5 Project Goal, Challenges and Proposed Approach
 
 ### Goal
 
@@ -59,7 +63,7 @@ Lack of large-scale datasets with accurate segmentation masks. Additionally, mos
 
 ---
 
-## 5 Implementation Progress
+## 6 Implementation Progress
 
 Here is my progress so far:
 
