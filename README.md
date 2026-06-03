@@ -9,7 +9,7 @@ I began my research by searching for top papers on Google Scholar and reading th
 
 In this report, I have documented my research activities in the area of object segmentation in medical images, with a particular focus on chest radiography. My work explores modern segmentation approaches, explainable AI techniques, and large-scale medical datasets.
 
-The ultimate goal of my project was to develop an effective segmentation model for radiological chest images using **limited annotated data**.
+The ultimate goal of my project was to develop an effective segmentation model for radiological chest images using *limited annotated data*.
 
 ---
 
@@ -29,7 +29,7 @@ In the second phase, after reviewing the academic landscape, I selected my main 
 
 [*"Explanations of Classifiers Enhance Medical Image Segmentation via End-to-End Pre-training."*](https://arxiv.org/abs/2401.08469)
 
-This paper proposes a novel method for generating pseudo-segmentation labels from classification explanations and then using them for segmentation pre-training. The methodology is outlined below:
+This paper proposes a novel method for *generating pseudo-segmentation labels from classification explanations and then using them for segmentation pre-training*. The methodology is outlined below:
 
 ### Method Overview
 
