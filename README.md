@@ -77,6 +77,6 @@ Unfortunately, I encountered one huge challenge: full dataset heatmap generation
 
 ---
 
-## 6 Training the Second Model
+## 7 Training the Second Model
 
 Finally, after generating the pseudo-dataset, I trained my segmentation model using the generated dataset.
